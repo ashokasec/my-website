@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     description: "I develop apps to fill gaps in existing solutions based on personal needs.",
     siteName: "ashokasec",
     images: [{
-      url: "https://github.com/ashokasec/my-website/public/screenshot.png",
+      url: "https://raw.githubusercontent.com/ashokasec/my-website/main/public/screenshot.png",
     }],
   }
 
