@@ -14,7 +14,7 @@ const projectData = [
         imageAlt: "Dark Blue Mesh Graadient",
         title: "Likhavat - Centralized Form Management System (Under Development)",
         description: "Likhavat simplifies form management, freeing users from complex backend setups to focus on designing, managing, and analyzing forms effortlessly.",
-        link: ""
+        link: "https://github.com/ashokasec/likhavat"
     },
     {
         background: BG2,
