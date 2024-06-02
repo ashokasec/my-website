@@ -5,6 +5,7 @@ import ProjectCard from './ProjectCard'
 import BG1 from "@/assets/bg1.jpg"
 import BG2 from "@/assets/bg2.jpg"
 import BG3 from "@/assets/bg3.jpg"
+import BG4 from "@/assets/bg4.jpg"
 import UPCOMING from "@/assets/upcoming.jpg"
 import { motion } from "framer-motion"
 
@@ -29,6 +30,13 @@ const projectData = [
         title: "The Cyber Avengers - Cybersecurity Community",
         description: "The Cyber Avenger is a growing community of over 500 people passionate about helping and empowering one another in the field of cybersecurity.  The lively network is ready to assist with troubleshooting issues or collaborating on projects.",
         link: "https://thecyberavenger.com"
+    },
+    {
+        background: BG4,
+        imageAlt: "Express Auth Cover",
+        title: "Express Auth (Under Development)",
+        description: "Express Auth (express-auth) is a work-in-progress project aimed at building a robust authentication and authorization backend using Express.js. The project focuses on creating essential authentication functionalities like sign-up, sign-in, password reset, and profile management.",
+        link: "https://github.com/ashokasec/express-auth"
     },
     {
         background: UPCOMING,
